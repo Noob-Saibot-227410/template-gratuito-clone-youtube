@@ -21,8 +21,7 @@ It was possible to have fundamental knowledge of HTML, CSS.
 
 ## ✒️ Authors
 
-[SuperSimpleDev](https://supersimple.dev/courses/html-css-course#exercises-solutions)
-[Petrus Borges](https://github.com/PetrusBorges)
+Noob Saibot 22742410
 
 ## 🎁 Gratitude
 
